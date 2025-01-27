@@ -80,7 +80,7 @@ Me chamo Isla de Oliveira, tenho 22 anos e sou natural do Rio de Janeiro.Atualme
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=i2l4&theme=radical" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=i2l4&theme=radical&layout=compact&custom_tittle=Tecnologias&langs_count=9" 
   />
 
 </p>
